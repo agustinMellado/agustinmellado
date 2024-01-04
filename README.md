@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+ 📍 I’m from Argentina.<br>🔭 I’m currently working on frontend and backend.<br>📕 I’m currently learning to program api rest.
 
 
 ## 🌐 Socials:
